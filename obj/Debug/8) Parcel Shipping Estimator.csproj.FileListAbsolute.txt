@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\8) Parcel Shipping Estimator\bin\Debug\8) Parcel Shipping Estimator.exe.config
+C:\Users\HP\source\repos\8) Parcel Shipping Estimator\bin\Debug\8) Parcel Shipping Estimator.exe
+C:\Users\HP\source\repos\8) Parcel Shipping Estimator\bin\Debug\8) Parcel Shipping Estimator.pdb
+C:\Users\HP\source\repos\8) Parcel Shipping Estimator\obj\Debug\8) Parcel Shipping Estimator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\8) Parcel Shipping Estimator\obj\Debug\8) Parcel Shipping Estimator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\8) Parcel Shipping Estimator\obj\Debug\8) Parcel Shipping Estimator.exe
+C:\Users\HP\source\repos\8) Parcel Shipping Estimator\obj\Debug\8) Parcel Shipping Estimator.pdb
